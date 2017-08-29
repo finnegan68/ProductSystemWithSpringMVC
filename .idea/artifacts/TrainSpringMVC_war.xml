@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="TrainSpringMVC:war">
+    <output-path>$PROJECT_DIR$/../TrainSpringMVC/target</output-path>
+    <root id="archive" name="ua.com.webapp.train.springmvc-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="TrainSpringMVC:war exploded" />
+    </root>
+  </artifact>
+</component>
